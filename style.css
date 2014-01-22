@@ -1,0 +1,44 @@
+body {
+	font-family: Verdana, Tahoma, Sans-serif;
+	
+}
+
+
+#champion {
+	background-color:#29e21b;
+}
+#titles {
+	background-color: #1f4fed;
+}
+
+#winR {
+	background-color: #e7331b;
+}
+
+#kda {
+	background-color: #e8ef1f;
+}
+#relDate {
+	background-color: #ca1fef;
+}
+.champion {
+	background-color: #86e57f;
+}
+.titles {
+	background-color: #4d73ef;
+}
+.winR {
+	background-color: #ef5541;
+}
+.kda {
+	background-color: #edf172;
+}
+.relDate {
+	background-color: #d45bee;
+}
+/*.rows:hover { 
+	background-color: #ffffff;
+	-webkit-transition: background-color 2s;         <------Funkar inte av någon anledning.
+}*/
+
+
